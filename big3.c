@@ -1,6 +1,6 @@
 #include <stdio.h>
  
-bigges3()
+biggest3()
 {
     int num1, num2, num3;
  
