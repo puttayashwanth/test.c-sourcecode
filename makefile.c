@@ -1,4 +1,3 @@
-
 ABC.exe:main.o fact.o big3.o rev.o
         gcc -o ABC.exe main.o fact.o big3.o rev.o
 main.o:main.c
